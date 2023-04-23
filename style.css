@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: arial;
+}
+header{
+    text-align: center;
+    margin:60px;
+}
+main{
+text-align: center;
+}
+main input, button{
+    padding: 10px;
+    width: 400px;
+    outline: none;
+    border-radius: 5px;
+    border:1px solid gray;
+}
+main button{
+    width: 100px !important;
+    cursor: pointer;
+}
+ul li{
+    align-items: center !important;
+    list-style: none;
+    font-size: 28px;
+    padding: 12px 8px 10px 15px;
+}
